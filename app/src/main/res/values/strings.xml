@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlacementPrediction</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_cgpa">Enter cgpa</string>
+    <string name="enter_iq">Enter Iq</string>
+    <string name="enter_profile_score">Enter profile score</string>
+    <string name="predict">predict</string>
+</resources>
